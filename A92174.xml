@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A rationall discourse of the cause of the present vvar, with a faire paterne for a good peace.</title>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92174</idno><idno type="EEBO-CITATION">99863635</idno>
+  <idno type="VID">115845</idno>
+  <idno type="EEBO-PROQUEST">2240938924</idno>
+  
+            <idno type="STC">Wing R303</idno>
+            <idno type="STC">Thomason E99_9</idno>
+            <idno type="STC">ESTC R20383</idno>
+            <idno type="PROQUEST">99863635</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99863635e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92174)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115845)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 17:E99[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A rationall discourse of the cause of the present vvar, with a faire paterne for a good peace.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the yeare 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aprill 21th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115845:1"/>
+            <p>A RATIONALL DISCOURSE OF THE CAVSE OF THE Present VVar, WITH A FAIRE PATERNE FOR A Good Peace.</p>
+            <p>LONDON, Printed in the yeare 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:115845:2"/>
+            <pb facs="tcp:115845:2"/>
+            <head>A rationall Discourse of the cause of the pre<g ref="char:EOLhyphen"/>sent VVar, with a fair pretence for a good Peace.</head>
+            <p>
+               <seg rend="decorInit">I</seg>N these times to write were no new thing Books are as common as is common opinion; yet so to write, as to declare the truth of judgement without hypocrisie of one side, or flattery on the other; or to write whereby to reprove advisedly the offences that disturbe the times, &amp; to lay open a faire way for good a issue, were time well spent, and labour well bestowed.</p>
+            <p>The first of the former concernes an active part of these times, who comming to sit upon the grievance of the Kingdome, upon Shipmo<g ref="char:EOLhyphen"/>ney, and Monopolies, injustice of Judges, and such Church faults as were within their reach (as what had not been in a fair way upon the particulars offending) reproveable and corrigible, and not be content to have the same delivered into their hands, but must, further then the reach of humane judgement, or common understanding, subject all regall Power, Ordinances of Authority, and Ministery of Justice, together with the root and branch of Church government, unto the will or malice of such as wilfully did purpose, or malitiously would undermine the state of those powers whose foundation was from God alone. To explaine the contradictory agitation of these times to the divine Orthodox way of Christianity, were tedious, and the rather because I cannot but thinke every one (not wilfully ignorant) is sen<g ref="char:EOLhyphen"/>sible of it; therefore I passe by it, deciding the controversie only by this: Blood is spile, what if the Throne had shadowed or eclipsed the bea<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>s of mercy whereby judgement might be attracted, who shall in this case judge, or rise up and say he standeth innocent? Concerning the distractions of the times, the overture of justice and judgement
+<pb facs="tcp:115845:3"/>was the decay of Government, and the continuance thereof shews they are not sought after nor regarded. The abuses in Gods worship, and Church government grow more and more as may be seene by this, namely, opinion is risen up to decide truth. But to say something equall to the expectation of the Reader, according to the <hi>exordium</hi> of this time and labour. Is it not shame to see that so great and glorious a Nation as England was, is become so full of offences, that its disturbances are resemblances of a Kingdomes overthrow, and si<g ref="char:EOLhyphen"/>milize times expiration: Where is your wisdomes that should have looked to these offendors, knowing that w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e unto the world because of offences; For it must needs be that offences shall come, but woe unto that man by whom offence commeth; if then you will medle with judgement, why looke you not to the offendor, he and his par<g ref="char:EOLhyphen"/>ty are countenanced, made great, and abound with riches, and all manner of pleasures, as if the glory of the times, and all things else were made for his dispose, whose power was from death, whose ri<g ref="char:EOLhyphen"/>ches got by corruption, are reserved by the mystery of iniquity and filthinesse: Thence came the glory of the Kingdome to be ravished; thence sprang depravation of Lawes, and monstrous corruption; thence grew regall dignity to be scorned, and set at naught; thence came the Church to be defiled, and from those soule vapours raised by false indigni<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ies grew Englands Sunshine darkened; what course then to be taken? What, now but to make our selves wise by temp<g ref="char:EOLhyphen"/>tations, by breeding more darkenesse to cast out vapours of death and destruction to the multitude, and giving them stones instead of bread, whereby they fall at difference, and murder each other about a cause, which was causlesse untill caused by breach of faith and publicke trust. Where was now the medicine for a body so diseased? Why was not the particular branches of the Kingdome, that were greeved and burthened with oppression, relieved and made to spring againe, whereby it might have appeared the stock &amp; root had not been dead. The offences in the Church I confesse looke something more despe<g ref="char:EOLhyphen"/>rate then ordinary, and it may be said, what course could be taken for that? Why it was not ripe (yet God keepe it from ripening so a<g ref="char:EOLhyphen"/>gaine)
+<pb facs="tcp:115845:3"/>whence grew it, I may not take neither honour, nor tyth from God nor his Ministers; and who saith that Bishops are not lawfull, is a wretch; or that such governours are not requisite in Church and Common-wealth, is too wise for me. But that Bishops should bee Lord Treasurers, and the most active men in a State about temporall dignities and preferments, is beyond my divinity or conscience, and had these things beene looked after in a usuall, milde and commend<g ref="char:EOLhyphen"/>able way, and amended by degrees, the glosse of grosse offences, and vices of a Court had not excited your mindes, that had judicature in your hands to have risen up and been carried away with the violence of vengeance upon those you supposed your selves justly grieved at, which hath caused the wasting of your estates, and blood of your friends and Countrymen, and hazarded the desolating of a King<g ref="char:EOLhyphen"/>dome.</p>
+            <p>For what hope hath any man to see a future happinesse, that mur<g ref="char:EOLhyphen"/>ders his dearest and best friend for a cause that concernes him no more (if looked into with a single eye, and without selfe-affection) then when a master and a servant fall at difference for the blessings another man bestowes upon his childe. The offences that did cause the judgement, was for our sins, which no way to be diverted but by prayer and repentance: the grievances in Commonwealth by taxes (if not justly raised for the glory of the Kingdome) was a great op<g ref="char:EOLhyphen"/>pression, and the riches so taken were (in which the hands of many were mixed) detestable robberies, which to my knowledge were cryed out against in those times, as well as since to you, and might have beene remedied or made knowne by those that very well understood them, whereby satisfaction might have beene required, and such as unjustly suffered, in complaining of abuses, beene with the Kingdome releeved both, who found helpe like a man falne a<g ref="char:EOLhyphen"/>mong theeves, who lying almost dead, a neere acquaintance and friend espyed, lying gasping for want of oyle in his wounds, which he not administring to him, runnes in haste to bee revenged of the theeves that hurt him, whereby the poore man became more mise<g ref="char:EOLhyphen"/>rable then before, his friends leaving of him without reliefe, adding
+<pb facs="tcp:115845:4"/>to his former misery discontent; and his friend not certaine of what might happen to himselfe, runnes madly on to pursue the desire of his owne will, which though good as the intent, yet not discreet nor wise in the ordering thereof, which by the example of Sunne, Moon, and Starres, and all the fabricke of Heaven and Earth, is represented as the cement to fasten them together, Order being next to Divine Providence, Natures chiefe supporter; and so not finding his strength sufficient, returnes againe with losse, besides his own detriment both of his friend and victory. If Englands friends had not runne after the bloud of revenge, they had not suffered her nor her distressed Members to have lyen without reliefe, Gods blessing had not beene so sleighted, nor the wisedomes of former ages, whether extant by Bishops, or other inferiour Ministers, or by other wise, ancient, and learned men of Church and Commonwealth, so vilified, as what they delivered and were subject unto, and in Church government and Religion died under, and were martyred for, is rooted up and cast away, as if the faults of the evill Governours must take away the glory of the foundation of government. But to take things as they stand, and to say something toward the recovery of truth, and disco<g ref="char:EOLhyphen"/>very of the breach in Church, although there be no new thing done under the Sunne, yet times revolution hath afforded some things which before have not beene taken notice of, and given them to our view in such a manner, that it seemes as if there had never beene the like before, and every man in the age wherein he lives, conceives the most remarkable things of his time so to bee. <hi>Vox clamantis</hi> was a forerunner of the day of Redemption, <hi>vox deplorantis</hi> is the voice of our times, and to bee feared a forerunner of immediate judgement, both which seeme to oppose one the other, yet in effect tend all to one end, and act one and the selfe same thing: The one preceeding mans redemption by a Saviour in suffering with shame and ignominy, the other preceeding mans redemption by a Judge and mighty deli<g ref="char:EOLhyphen"/>verer by his owne power and glory, yet one and the selfe same person represented, and one and the selfe same matter performed. 'Tis even so now, truth banished is not easily recovered: tis a sore wound
+<pb facs="tcp:115845:4"/>where she is wilfully opposed, or craftily denyed her resting place. The misery of our times seemes unparallel'd, where bloud cryes out and is spilt so confusedly, that former ages have not set forth the like, that in one and the same Kingdome under one and the same King, in one and the same Church, nay in one and the same house men fall to war, and to siding; if combinations and private champerties were not amongst them that have power in their hands, the people could not be so deluded, nor the Kingdome tossed like a Ship under a false Pilor, who instead of the channell divert the helme, and runnes her on the rocke or sands, and where such things are kept and concealed, truth must needs be abandoned, and delusion spread it selfe to the destruction of the harmlesse wayfaring man whether on sea or on shore.</p>
+            <p>For the Church I conceive never any government to be toward in her while blood is continued to be shed, nor victory to be to her whilst such passages continue under colour or pretence of her glory: for it is observable a word to be given both on the Kings side, and on the Parliaments; the King is God, and the King, and well he may take it up, for, Feare God and honour the King, are commande<g ref="char:EOLhyphen"/>ments by divine Writ; but what word can it be for a man to spill his brothers blood, and say it is for the King and Parliament, al<g ref="char:EOLhyphen"/>though contrary to his Proclamation, &amp;c. For my part I conceive it a delusion, and men dye in darkenesse thereby, if it must be decided so, let this be the way to know for whom God is pleased to reserve the Kingdome for, if a man fight let him doe it, and say For God and the Church, and one side must surely fal without much bloudshed more: for God will bee with his Church unto the end. But to fight as now adayes I verily beleeve most doe for money and pillage, is worse then common robbery, who if they understood that what they fight for is their owne already, it being the price of their saiths, might as well goe in clusters to Guildhall in London and de<g ref="char:EOLhyphen"/>mand so much as their faith is worth, as goe and bee hired with the price thereof to spil the blood of their brother in Christ, their co-na<g ref="char:EOLhyphen"/>tive in the Country, their friend in nationall affection, &amp; their neigh<g ref="char:EOLhyphen"/>bour
+<pb facs="tcp:115845:5"/>in habitation, not to speake of others in alliance and consan<g ref="char:EOLhyphen"/>guinity: And for matter of plunder or p llage, or call it what you will, observe what the Church of God did in <hi>Ahasuerus</hi> his dayes: when <hi>Haman</hi> had got a decree sealed with the Kings Ring, that all the Jewes, <hi>Mordecayes</hi> people, should be destroyed, <hi>Hester</hi> and the people fasted, and by the providence of God she brought it to passe, that a decree issued (the matter being rightly understood) that <hi>Mor<g ref="char:EOLhyphen"/>decayes</hi> people should doe the like to their enemies; but (although they had an expresse leave or grant so to doe) on the prey they layd not their hands, for it was for their lives, laws, and religion for which they fought, and had beene by <hi>Haman</hi> accused to King <hi>Ahasuerus.</hi> And if any such thing were against us really, where one riseth, a thou<g ref="char:EOLhyphen"/>sand would rise and fight rather naked for such a Cause, then for Money, upon never so faire pretences, to hazard the bloud of his friends, and destruction of his owne life and soule: in such a cause, if any, a man may have cause to fight against his opposer, but howso<g ref="char:EOLhyphen"/>ever those that can fight as well as those that cannot, must rather pray with devotion that God will bee pleased to divert the judgements threatned, which ought rather to be submitted unto, or diverted by prayer, then withstood, or by us thought to be remedied, or sought to be remedied by our owne strength or power, knowing that obe<g ref="char:EOLhyphen"/>dience is better then sacrifice; and that violence hath thrown down Kingdomes, Wisedome (not the sword) made meane men Kings.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
